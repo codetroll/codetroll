@@ -68,7 +68,7 @@ Tech evangelist developing with Node, Angular, PHP, HTML, and CSS
 
 ### My tech stack
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,azure,bash,git,github,java,laravel,md,mysql,nodejs,php,py,ts,vscode )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,azure,bash,css,git,github,html,java,laravel,md,mysql,nodejs,php,py,ts,vscode )](https://skillicons.dev)
 
 
 <!--
